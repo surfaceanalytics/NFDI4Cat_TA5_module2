@@ -1,0 +1,8 @@
+name: data-modelling-demo
+channels:
+  - defaults
+dependencies:
+  - python=3.8.0
+  - pip:
+	- pandas
+	- flatten-json
