@@ -3,7 +3,7 @@ channels:
   - defaults
 dependencies:
   - python=3.8.0
-  -pip
+  - pip
   - pip:
     - pandas
     - flatten-json
